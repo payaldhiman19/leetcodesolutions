@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
