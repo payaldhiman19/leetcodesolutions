@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
