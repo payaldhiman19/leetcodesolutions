@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
