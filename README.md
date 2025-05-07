@@ -19,14 +19,17 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Array
 |  |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
