@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree no.
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
@@ -20,28 +20,28 @@ class Solution {
        if(root==null){
         return res;
        }
-       q.add(root);
-       boolean lefttoright=true;
-       while(!q.isEmpty()){
+      q.add(root);
+      boolean lefttoright=true;
+      while(!q.isEmpty()){
         int size=q.size();
-        List<Integer>level=new ArrayList<>();
+    List<Integer>level=new ArrayList<>();
         for(int i=0;i<size;i++){
-        TreeNode temp=q.poll();
-        if(lefttoright){
-        level.add(temp.val);
-        }else{
-            level.add(0,temp.val);
-        }
-        if(temp.left!=null){
-            q.add(temp.left);
-        }
-            if(temp.right!=null){
-                q.add(temp.right);
+            TreeNode curr=q.poll();
+            if(lefttoright){
+                level.add(curr.val);
+            }else{  //if from left to right insert at begining
+                level.add(0,curr.val);
             }
+         if(curr.left!=null)
+            q.add(curr.left);
+         
+         if(curr.right!=null)
+            q.add(curr.right);
         }
-        res.add(level);
+           res.add(level);
         lefttoright=!lefttoright;
-       } 
-       return res;
+      
+              }      
+      return res;
     }
 }
