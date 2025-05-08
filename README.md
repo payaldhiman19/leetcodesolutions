@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
