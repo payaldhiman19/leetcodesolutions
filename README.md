@@ -19,20 +19,6 @@
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
-| [0099-recover-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0099-recover-binary-search-tree) |
-| [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
-| [0199-binary-tree-right-side-view](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0199-binary-tree-right-side-view) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0450-delete-node-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0450-delete-node-in-a-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
