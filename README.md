@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 ## Hash Table
 |  |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
