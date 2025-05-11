@@ -21,6 +21,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -35,6 +36,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -89,6 +91,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0199-binary-tree-right-side-view) |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
