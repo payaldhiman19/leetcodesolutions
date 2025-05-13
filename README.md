@@ -28,6 +28,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 ## Linked List
 |  |
 | ------- |
@@ -156,4 +158,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
