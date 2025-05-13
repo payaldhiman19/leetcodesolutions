@@ -1,19 +1,18 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        int n=nums.length;
-       //find the shortest subarray whose sum is equak to or greater than target
-       int minlength=Integer.MAX_VALUE;
-       int left=0;
-       int windowsum=0;
-       for(int right=0;right<nums.length;right++){
-        windowsum+=nums[right];
-// If sum >= target, try to shrink the window
-        while(windowsum>=target){
-            minlength=Math.min(minlength,right-left+1);
-           windowsum-=nums[left];
-           left++;
+        int start =0; 
+        int windowsum=0;
+        int minlen=Integer.MAX_VALUE;
+        for(int end=0;end<nums.length;end++){
+            windowsum+=nums[end];
+            //if windowsum becomes greater than sum then first find mnlen of that and shrink from left
+            //remove one by one element from left
+            while(windowsum>=target){
+            minlen=Math.min(minlen,end-start+1);
+             windowsum-=nums[start];
+            start++;
+            }
         }
-       }
-       return minlength==Integer.MAX_VALUE?0:minlength; 
+        return minlen==Integer.MAX_VALUE?0:minlen;
     }
 }
