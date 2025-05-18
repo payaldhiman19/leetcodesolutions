@@ -52,6 +52,7 @@
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
@@ -60,6 +61,7 @@
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -73,20 +75,24 @@
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
@@ -122,6 +128,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -170,4 +177,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
