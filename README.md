@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
@@ -140,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
