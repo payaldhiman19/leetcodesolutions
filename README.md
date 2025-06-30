@@ -58,6 +58,7 @@
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -158,6 +162,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
