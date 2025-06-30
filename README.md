@@ -33,6 +33,7 @@
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
 ## Linked List
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
 ## Quickselect
 |  |
 | ------- |
