@@ -16,6 +16,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
