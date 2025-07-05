@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
@@ -81,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
@@ -122,6 +125,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
@@ -178,6 +182,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Matrix
