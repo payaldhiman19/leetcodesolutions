@@ -17,11 +17,10 @@ class Solution {
         int n=nums.length;
         int ans[]=new int [n-k+1];
         int nges[]=nge(nums);
-        int j=0;
         for(int i=0;i<=n-k;i++){
             //make sure j is within the window
-            if(j<i) j=i;
             //jump to next greater elemnt and if the index is wothin the window then it is correct
+            int j=i;
             while(nges[j]<i+k){
                 //to check if it is in range
                 j=nges[j]; //store index of next greater elemnt
