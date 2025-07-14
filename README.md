@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
@@ -172,6 +173,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
@@ -225,6 +227,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
 ## Queue
 |  |
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
