@@ -17,6 +17,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
@@ -29,6 +30,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
