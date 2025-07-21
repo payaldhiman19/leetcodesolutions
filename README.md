@@ -98,6 +98,7 @@
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Quickselect
 |  |
 | ------- |
@@ -249,4 +251,12 @@
 | ------- |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
