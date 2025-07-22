@@ -1,23 +1,25 @@
 class Solution {
-    public int f(int arr[],int amount,int index,int[] []dp){
-        if(amount<0 ||index<0) return Integer.MAX_VALUE;
-        if(amount==0) return 0;
-        if(dp[index][amount]!=-1) return dp[index][amount];
-        int take=Integer.MAX_VALUE;
-        if(arr[index]<=amount){
-         int   temp=f(arr,amount-arr[index],index,dp);
-        if(temp!=Integer.MAX_VALUE){
+    public int f(int []coins,int amt,int idx,int [][]dp){
+     if(amt<0 ||idx<0) return Integer.MAX_VALUE;
+     if(amt==0) return 0;
+     if(dp[idx][amt]!=-1) return dp[idx][amt];
+     int take=Integer.MAX_VALUE;
+     if(coins[idx]<=amt){
+        int temp=f(coins,amt-coins[idx],idx,dp);
+           if(temp!=Integer.MAX_VALUE){
             take=1+temp;//we are taking first coin soadd 1 and can add how many times we want
         }
-        }
-        int notake=f(arr,amount,index-1,dp); //addd next coin
-       return dp[index][amount]=Math.min(take,notake);
+     }
+     int nottake=f(coins,amt,idx-1,dp);
+     return dp[idx][amt]=Math.min(take,nottake);
     }
     public int coinChange(int[] coins, int amount) {
         int n=coins.length;
-        int [][]dp=new int[n][amount+1];
-          for (int[] row : dp) Arrays.fill(row, -1);
-          int res=f(coins,amount,n-1,dp);
-             return res == Integer.MAX_VALUE ? -1 : res;
+    int dp[][]=new int[n+1][amount+1];
+    for(int[]a:dp){
+        Arrays.fill(a,-1);
+    }
+    int res=f(coins,amount,n-1,dp);
+    return res==Integer.MAX_VALUE?-1:res;
     }
 }
