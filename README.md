@@ -67,6 +67,7 @@
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
@@ -96,6 +97,7 @@
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
