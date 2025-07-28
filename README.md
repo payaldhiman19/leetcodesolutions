@@ -75,6 +75,7 @@
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
+| [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
@@ -115,6 +116,7 @@
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
