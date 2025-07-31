@@ -265,6 +265,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 ## Topological Sort
