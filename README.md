@@ -67,6 +67,7 @@
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+| [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
@@ -214,6 +216,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
