@@ -68,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
