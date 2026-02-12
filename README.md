@@ -91,6 +91,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1929-concatenation-of-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1929-concatenation-of-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -275,6 +276,7 @@
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
 | ------- |
