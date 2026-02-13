@@ -75,6 +75,7 @@
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
