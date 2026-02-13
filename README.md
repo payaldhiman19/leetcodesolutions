@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
@@ -273,6 +274,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
@@ -288,6 +290,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
