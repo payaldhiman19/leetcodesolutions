@@ -126,6 +126,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Recursion
 |  |
@@ -222,6 +224,7 @@
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0260-single-number-iii) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
 |  |
 | ------- |
