@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
@@ -171,6 +173,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
