@@ -191,6 +191,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
@@ -204,6 +205,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,4 +336,8 @@
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0090-subsets-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
