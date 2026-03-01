@@ -247,6 +247,7 @@
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
 |  |
