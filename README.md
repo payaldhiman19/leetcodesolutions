@@ -126,6 +126,7 @@
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -360,4 +362,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0543-diameter-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
