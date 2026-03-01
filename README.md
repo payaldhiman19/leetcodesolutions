@@ -129,6 +129,7 @@
 | [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
@@ -329,6 +330,7 @@
 | [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
