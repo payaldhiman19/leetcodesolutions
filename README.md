@@ -23,6 +23,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1143-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
@@ -139,6 +140,7 @@
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1143-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
