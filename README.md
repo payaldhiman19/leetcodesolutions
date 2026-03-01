@@ -15,6 +15,7 @@
 | [0097-interleaving-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
@@ -89,6 +90,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0260-single-number-iii) |
@@ -136,6 +138,7 @@
 | [0120-triangle](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -151,6 +154,7 @@
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +187,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -374,4 +379,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
