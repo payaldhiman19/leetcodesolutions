@@ -73,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
@@ -140,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0127-word-ladder) |
@@ -271,6 +273,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
@@ -342,6 +345,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0090-subsets-ii) |
