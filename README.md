@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
@@ -129,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
@@ -197,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
