@@ -21,6 +21,7 @@
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -144,6 +145,7 @@
 | [0198-house-robber](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
