@@ -278,6 +278,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0099-recover-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -350,6 +351,7 @@
 | [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
