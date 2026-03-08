@@ -79,6 +79,7 @@
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0040-combination-sum-ii) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0099-recover-binary-search-tree) |
