@@ -123,6 +123,7 @@
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1929-concatenation-of-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1929-concatenation-of-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -186,6 +187,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
@@ -333,10 +335,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union Find
 |  |
 | ------- |
@@ -381,6 +385,7 @@
 | [0231-power-of-two](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 ## Topological Sort
 |  |
