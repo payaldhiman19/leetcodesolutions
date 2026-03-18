@@ -62,6 +62,7 @@
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -254,6 +256,7 @@
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
@@ -339,6 +342,7 @@
 | [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -445,6 +449,7 @@
 | [0130-surrounded-regions](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
