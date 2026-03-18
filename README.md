@@ -55,6 +55,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
@@ -118,6 +119,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
@@ -168,6 +170,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -333,6 +336,7 @@
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 ## Sliding Window
