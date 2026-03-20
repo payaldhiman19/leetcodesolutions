@@ -118,6 +118,7 @@
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
@@ -144,6 +145,7 @@
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -170,6 +172,7 @@
 | [0213-house-robber-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
@@ -282,6 +285,7 @@
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
