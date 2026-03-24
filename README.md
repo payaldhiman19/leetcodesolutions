@@ -126,6 +126,7 @@
 | [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
@@ -359,6 +360,7 @@
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
@@ -397,6 +399,7 @@
 | [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1929-concatenation-of-array) |
 ## Queue
