@@ -490,4 +490,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0208-implement-trie-prefix-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
