@@ -38,6 +38,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0316-remove-duplicate-letters) |
@@ -69,6 +70,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
@@ -257,6 +259,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0101-symmetric-tree) |
@@ -458,6 +461,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0543-diameter-of-binary-tree) |
