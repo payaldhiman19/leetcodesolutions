@@ -21,6 +21,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0316-remove-duplicate-letters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -211,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
@@ -299,6 +301,7 @@
 | [0190-reverse-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -382,6 +385,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
