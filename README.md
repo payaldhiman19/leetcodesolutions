@@ -148,6 +148,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2643-row-with-maximum-ones](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -375,6 +376,7 @@
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
+| [2643-row-with-maximum-ones](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2643-row-with-maximum-ones) |
 ## Sliding Window
 |  |
 | ------- |
