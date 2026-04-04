@@ -10,6 +10,6 @@ class Solution {
                 right=mid;
             }
         }
-        return left;
+            return left;
     }
 }
