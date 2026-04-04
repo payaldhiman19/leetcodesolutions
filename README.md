@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0139-word-break) |
@@ -383,6 +385,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
