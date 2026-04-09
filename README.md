@@ -137,6 +137,7 @@
 | [0455-assign-cookies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0695-max-area-of-island](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0695-max-area-of-island) |
@@ -223,6 +224,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -404,6 +406,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union Find
 |  |
