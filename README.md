@@ -131,6 +131,7 @@
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0498-diagonal-traverse) |
@@ -164,6 +165,7 @@
 | [0268-missing-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0455-assign-cookies) |
@@ -217,6 +219,7 @@
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
