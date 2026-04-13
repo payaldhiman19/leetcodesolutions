@@ -87,6 +87,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -294,6 +295,7 @@
 | [0801-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0871-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1020-number-of-enclaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0435-non-overlapping-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0455-assign-cookies) |
+| [1382-balance-a-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -368,6 +372,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Monotonic Stack
 |  |
@@ -491,6 +496,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
