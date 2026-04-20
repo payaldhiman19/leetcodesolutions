@@ -103,6 +103,7 @@
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0056-merge-intervals) |
@@ -181,6 +182,7 @@
 | [0005-longest-palindromic-substring](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0063-unique-paths-ii) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
