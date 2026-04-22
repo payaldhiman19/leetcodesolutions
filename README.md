@@ -37,4 +37,16 @@ Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
