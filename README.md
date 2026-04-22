@@ -33,6 +33,7 @@ Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Java
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -49,4 +51,8 @@ Java
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
