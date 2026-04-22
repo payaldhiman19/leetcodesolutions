@@ -28,6 +28,7 @@ Java
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ Java
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -55,4 +57,8 @@ Java
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
