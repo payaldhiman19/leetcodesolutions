@@ -301,6 +301,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -340,6 +341,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0143-reorder-list) |
@@ -454,6 +456,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
