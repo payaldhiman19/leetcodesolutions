@@ -45,6 +45,7 @@ Java
 | ------- |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -73,4 +74,8 @@ Java
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
