@@ -49,6 +49,7 @@ Java
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
@@ -63,4 +64,8 @@ Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
