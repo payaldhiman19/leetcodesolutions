@@ -25,21 +25,21 @@ class Solution {
         }
     }
     public ListNode sortList(ListNode head) {
-    if (head == null || head.next == null) return head; // Base case
-        ListNode slow=head;
-        ListNode fast=head;
-        ListNode prev=null;
-        while(fast!=null&&fast.next!=null){
-            prev=slow;
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        //find middle and point it to null convert it into two list first from head and another from slow then recurssively sort it and merge them.
-        prev.next=null;
-        //SORT recurssively
-        ListNode a=sortList(head);
-        ListNode b=sortList(slow);
-        //merge sorted lists
-        return mergetwolists(a,b);
+        //we cna use the logic of merge two sorted linked divde and get middle and sort its leftand rught part
+       if(head==null ||head.next==null){
+        return head;
+       }
+       ListNode slow=head;
+       ListNode fast=head;
+       ListNode prev=null;
+       while(fast!=null&&fast.next!=null){
+        prev=slow;
+        slow=slow.next;
+        fast=fast.next.next;
+       }
+       prev.next=null;
+       ListNode first=sortList(head);
+       ListNode second=sortList(slow);
+       return mergetwolists(first,second);
     }
 }
