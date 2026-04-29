@@ -52,6 +52,7 @@ Java
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1572-matrix-diagonal-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +106,8 @@ Java
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
