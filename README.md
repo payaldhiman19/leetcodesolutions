@@ -47,6 +47,7 @@ Java
 | [0011-container-with-most-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
@@ -62,6 +63,7 @@ Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
@@ -71,6 +73,7 @@ Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
