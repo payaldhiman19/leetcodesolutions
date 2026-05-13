@@ -9,37 +9,35 @@
  * }
  */
 class Solution {
-    ListNode mergetwolists(ListNode head1,ListNode head2){
-        if(head1==null && head2==null){
+    public ListNode merge(ListNode h1,ListNode h2){
+        if(h1==null&&h2==null){
             return null;
         }
-        if(head1==null) return head2;
-        if(head2==null) return head1;
-        if(head1.val<head2.val){
-           head1.next= mergetwolists(head1.next,head2);
-           return head1;
-
+        if(h1==null)return h2;
+        if(h2==null)return h1;
+        if(h1.val<h2.val){
+            h1.next=merge(h1.next,h2);
+            return h1;
         }else{
-            head2.next=mergetwolists(head1,head2.next);
-            return head2;
+             h2.next=merge(h1,h2.next);
+            return h2;
         }
     }
     public ListNode sortList(ListNode head) {
-        //we cna use the logic of merge two sorted linked divde and get middle and sort its leftand rught part
-       if(head==null ||head.next==null){
-        return head;
-       }
-       ListNode slow=head;
-       ListNode fast=head;
-       ListNode prev=null;
-       while(fast!=null&&fast.next!=null){
-        prev=slow;
-        slow=slow.next;
-        fast=fast.next.next;
-       }
-       prev.next=null;
-       ListNode first=sortList(head);
-       ListNode second=sortList(slow);
-       return mergetwolists(first,second);
+        if(head==null||head.next==null){
+            return head;
+        }
+        ListNode slow=head;
+        ListNode fast=head;
+        ListNode prev=null;
+        while(fast!=null&&fast.next!=null){
+         prev=slow;
+         slow=slow.next;
+         fast=fast.next.next;
+        }
+        prev.next=null;
+        ListNode f=sortList(head);
+        ListNode s=sortList(slow);
+        return merge(f,s);
     }
 }
