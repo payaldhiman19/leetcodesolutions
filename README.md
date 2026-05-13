@@ -67,6 +67,7 @@ Java
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
@@ -95,6 +96,7 @@ Java
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
 ## Math
 |  |
