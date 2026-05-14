@@ -19,9 +19,9 @@ class Solution {
         temp=temp.next;
         length++;
       }
-      temp.next=head; //circular
       k=k%length;
       if(k==0)return head;
+        temp.next=head; //circular
       ListNode newtail=head;
       int n=length-k;
       for(int i=1;i<n;i++){
