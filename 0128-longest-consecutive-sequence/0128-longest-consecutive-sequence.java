@@ -9,11 +9,11 @@ class Solution {
         if(!set.contains(num-1)){
             int curr=num;
             int cnt=1;
-            while(set.contains(curr+1)){
-                curr++;
-                cnt++;
-            }
-            longest=Math.max(cnt,longest);
+           while(set.contains(curr+1)){
+            curr++;
+            cnt++;
+           }
+           longest=Math.max(longest,cnt);
         }
       }
       return longest;
