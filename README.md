@@ -64,6 +64,7 @@ Java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0605-can-place-flowers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
@@ -135,6 +136,7 @@ Java
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -176,4 +178,8 @@ Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
