@@ -1,17 +1,15 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-      Map<String,List<String>>map=new HashMap<>();
-      //list string to stire the values for srted key string 
-      //like --eat in sorted aet it becomes "aet":[eat,tea,ate] ,"ant":[tan,nat],"abt":[bat];
-      for(String str:strs){
-        char ch[]=str.toCharArray();
-        Arrays.sort(ch);
-        String sortedkey=new String(ch);
-        if(!map.containsKey(sortedkey)){
-            map.put(sortedkey,new ArrayList<>());
+       
+        //use sorted string as key and originl as its value and whenever you find the same sorted key just point that orginal string to that key also
+        Map<String,List<String>>map=new HashMap<>();
+        for(String s:strs){
+            char ch[]=s.toCharArray();
+            Arrays.sort(ch);
+            String key=new String(ch);
+            map.putIfAbsent(key,new ArrayList<>());
+            map.get(key).add(s);
         }
-        map.get(sortedkey).add(str);  //add otginal sring as key to sorted value
-      }
-      return new ArrayList<>(map.values());//return original values
+        return new ArrayList<>(map.values());
     }
 }
