@@ -34,6 +34,7 @@ Java
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1768-merge-strings-alternately](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ Java
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -154,6 +156,7 @@ Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
