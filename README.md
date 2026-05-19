@@ -36,6 +36,7 @@ Java
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1768-merge-strings-alternately](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ Java
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Java
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0155-min-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
