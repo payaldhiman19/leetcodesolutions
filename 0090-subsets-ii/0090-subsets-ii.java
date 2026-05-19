@@ -1,17 +1,17 @@
 class Solution {
-    public void helper(int start,Set<List<Integer>>res,List<Integer>temp,int nums[]){
-        res.add(new ArrayList<>(temp));
-        for(int i=start;i<nums.length;i++){
-            temp.add(nums[i]);
-            helper(i+1,res,temp,nums);
-            //backtrack
-            temp.remove(temp.size()-1);
-        }
+    public void solve(int num[],int index,List<Integer>curr,List<List<Integer>>res){
+    res.add(new ArrayList<>(curr));
+    for(int i=index;i<num.length;i++){
+        if(i>index && num[i]==num[i-1]) continue;
+        curr.add(num[i]);
+        solve(num,i+1,curr,res);
+        curr.remove(curr.size()-1);
+    }
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Set<List<Integer>>res=new HashSet<>();
+        List<List<Integer>>ans=new ArrayList<>();
         Arrays.sort(nums);
-        helper(0,res,new ArrayList<>(),nums);
-        return new ArrayList<>(res);
+        solve(nums,0,new ArrayList<>(),ans);
+        return ans;
     }
 }
