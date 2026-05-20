@@ -4,10 +4,10 @@ class Solution {
     int left=0;int right=n-1;
     int maxx=0;
     while(left<right){
-        int h=Math.min(height[left],height[right]);
-        int w=(right-left);
-        int area=h*w;
-        maxx=Math.max(maxx,area);
+        int he=Math.min(height[left],height[right]);
+        int width=(right-left);
+        int area=he*width;
+        maxx=Math.max(area,maxx);
         if(height[left]<height[right]){
             left++;
         }else{
