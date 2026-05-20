@@ -83,6 +83,7 @@ Java
 | [0904-fruit-into-baskets](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Java
 | [0151-reverse-words-in-a-string](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -211,4 +213,8 @@ Java
 |  |
 | ------- |
 | [0079-word-search](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
