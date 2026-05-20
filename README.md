@@ -45,6 +45,7 @@ Java
 | [0022-generate-parentheses](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
@@ -66,6 +67,7 @@ Java
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
@@ -139,6 +141,7 @@ Java
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
