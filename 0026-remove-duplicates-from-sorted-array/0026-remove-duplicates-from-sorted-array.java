@@ -5,12 +5,11 @@ class Solution {
       HashSet<Integer>set=new HashSet<>();
       for(int num:nums){
         if(!set.contains(num)){
-            //if not add 
             set.add(num);
             nums[cnt]=num;
             cnt++;
         }
-      }  
+      }
       return cnt;
     }
 }
