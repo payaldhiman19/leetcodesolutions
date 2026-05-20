@@ -61,6 +61,7 @@ Java
 | [0014-longest-common-prefix](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
@@ -86,6 +87,7 @@ Java
 | [0011-container-with-most-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
