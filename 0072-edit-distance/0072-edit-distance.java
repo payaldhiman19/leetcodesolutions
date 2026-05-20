@@ -17,7 +17,7 @@ class Solution {
                     int insert=dp[i-1][j];
                     int update=dp[i][j-1];
                     int delete=dp[i-1][j-1];
-                    dp[i][j]=1+Math.min(insert,Math.min(update,delete));
+                    dp[i][j]=Math.min(insert,Math.min(delete,update))+1;
                 }
             }
         }
