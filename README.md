@@ -47,6 +47,7 @@ Java
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
@@ -77,6 +78,7 @@ Java
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
