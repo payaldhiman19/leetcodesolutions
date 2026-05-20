@@ -47,6 +47,7 @@ Java
 | [0045-jump-game-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -78,6 +79,7 @@ Java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0605-can-place-flowers) |
@@ -140,6 +142,7 @@ Java
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
