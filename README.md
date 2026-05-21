@@ -51,6 +51,7 @@ Java
 | [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0213-house-robber-ii) |
@@ -234,6 +235,7 @@ Java
 | [0079-word-search](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Java
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,4 +259,5 @@ Java
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
