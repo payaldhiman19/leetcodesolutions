@@ -11,20 +11,20 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
    //main logic is add all head from list in priorityqueue and add smallest to curr next and node's next add in queue coz all nodes neex to be in queue
-   ListNode dummy=new ListNode(0);
-   ListNode curr=dummy;
-   PriorityQueue<ListNode>q=new PriorityQueue<>((a,b)->a.val-b.val);
-   for(ListNode li:lists){
+  ListNode dummy=new ListNode(0);
+  ListNode curr=dummy;
+  PriorityQueue<ListNode>pq=new PriorityQueue<>((a,b)->a.val-b.val);
+  for(ListNode li:lists){
     if(li!=null){
-      q.offer(li);
+        pq.offer(li);
     }
-   }
-   while(!q.isEmpty()){
-    ListNode node=q.poll();
-    curr.next=node; //smallest
+  }
+   while(!pq.isEmpty()){
+    ListNode node=pq.poll();
+    curr.next=node;
     curr=curr.next;
     if(node.next!=null){
-        q.offer(node.next);
+        pq.offer(node.next);
     }
    }
    return dummy.next;
