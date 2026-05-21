@@ -14,22 +14,15 @@
  * }
  */
 class Solution {
-    int res=-1;
-    int cnt=0;
-    public void inorder(TreeNode root,int k){
-        if(root==null) return;
-        inorder(root.left,k);
-        //check first in left as smallest will be in left
-        cnt++;
-        if(cnt==k){
-            res=root.val;
-            return ;
-        }
-        //else check in right subtree
-        inorder(root.right,k);
+    public void inorder(TreeNode root,List<Integer>li){
+        if(root==null)return;
+        inorder(root.left,li);
+        li.add(root.val);
+        inorder(root.right,li);
     }
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root,k);
-        return res;
-            }
+        List<Integer>li=new ArrayList<>();
+        inorder(root,li);
+      return  li.get(k-1);
+    }
 }
