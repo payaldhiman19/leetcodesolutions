@@ -85,6 +85,7 @@ Java
 | [0079-word-search](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -163,6 +164,7 @@ Java
 | [0023-merge-k-sorted-lists](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -176,6 +178,7 @@ Java
 | [0049-group-anagrams](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -252,6 +255,7 @@ Java
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -268,6 +272,7 @@ Java
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
