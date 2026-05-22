@@ -197,6 +197,7 @@ Java
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Java
 | [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0785-is-graph-bipartite) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Java
 | [0102-binary-tree-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,4 +312,8 @@ Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
