@@ -104,6 +104,7 @@ Java
 | [0904-fruit-into-baskets](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@ Java
 | [0347-top-k-frequent-elements](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Java
 | [0451-sort-characters-by-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0904-fruit-into-baskets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Union-Find
 |  |
 | ------- |
