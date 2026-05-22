@@ -92,6 +92,7 @@ Java
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0283-move-zeroes) |
@@ -195,12 +196,14 @@ Java
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
 ## Queue
 |  |
@@ -252,6 +255,7 @@ Java
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Simulation
 |  |
@@ -274,6 +278,7 @@ Java
 | [0100-same-tree](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
