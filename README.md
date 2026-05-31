@@ -160,6 +160,7 @@ Java
 | ------- |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0507-perfect-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
