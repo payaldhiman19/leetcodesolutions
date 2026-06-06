@@ -43,6 +43,7 @@ Java
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/payaldhiman19/leetcodesolutions/tree/master/1768-merge-strings-alternately) |
+| [2129-capitalize-the-title](https://github.com/payaldhiman19/leetcodesolutions/tree/master/2129-capitalize-the-title) |
 ## Dynamic Programming
 |  |
 | ------- |
