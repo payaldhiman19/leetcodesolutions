@@ -91,6 +91,7 @@ Java
 | [0134-gas-station](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0213-house-robber-ii) |
@@ -165,6 +166,7 @@ Java
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
