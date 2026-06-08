@@ -1,27 +1,31 @@
 class Solution {
     public int[] frequencySort(int[] nums) {
-     int n=nums.length;
-     HashMap<Integer,Integer>map=new HashMap<>();
-     for(int num:nums){
-        map.put(num,map.getOrDefault(num,0)+1);
-     }
-     PriorityQueue<Map.Entry<Integer,Integer>>pq=new PriorityQueue<>((a,b)->{
-        if(!a.getValue().equals(b.getValue())){
-            return a.getValue()-b.getValue();
+        int n=nums.length;
+        int ans[]=new int[n];
+        HashMap<Integer,Integer>map=new HashMap<>();
+        for(int num:nums){
+            map.put(num,map.getOrDefault(num,0)+1);
         }
-        return b.getKey()-a.getKey();
-     });
-     pq.addAll(map.entrySet());
-     int res[]=new int[n];
-     int index=0;
-     while(!pq.isEmpty()){
-        Map.Entry<Integer,Integer>entry=pq.poll();
-        int ele=entry.getKey();
-        int fre=entry.getValue();
-        for(int i=0;i<fre;i++){
-            res[index++]=ele;
+        PriorityQueue<Map.Entry<Integer,Integer>>pq=new PriorityQueue<>((a,b)->{
+      if(!a.getValue().equals(b.getValue())){
+        //if two does not have same frequency
+        return a.getValue()-b.getValue();
+      }
+      //return large numebr first
+      return b.getKey()-a.getKey();
+        });
+        pq.addAll(map.entrySet());
+        int res[]=new int[n];
+        int index=0;
+        while(!pq.isEmpty()){
+            Map.Entry<Integer,Integer>entry=pq.poll();
+            int ele=entry.getKey();
+            int cnt=entry.getValue();
+            for(int i=0;i<cnt;i++){
+                res[index++]=ele;
+            }
         }
-     }
-     return res;
-    }
+        return res;
+        
+        }
 }
