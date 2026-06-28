@@ -7,9 +7,7 @@ class Solution {
             }else{
                 if(st.isEmpty())return false;
                 char top=st.pop();
-                if((ch==')'&&top!='(')||(ch=='}'&&top!='{')||(ch==']'&&top!='[')){
-                    return false;
-                }
+                if((ch==')'&&top!='(')||(ch==']'&&top!='[')||(ch=='}'&&top!='{'))return false;
             }
         }
         return st.isEmpty();
