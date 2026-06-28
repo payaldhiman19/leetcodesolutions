@@ -1,5 +1,5 @@
 class Solution {
-    public boolean palindrome(String s){
+    public boolean pali(String s){
         int i=0;int j=s.length()-1;
         while(i<j){
             if(s.charAt(i)!=s.charAt(j)){
@@ -16,7 +16,7 @@ class Solution {
         }
         for(int end=index;end<s.length();end++){
             String sub=s.substring(index,end+1);
-            if(palindrome(sub)){
+            if(pali(sub)){
                 path.add(sub);
                 solve(s,end+1,path,ans);
                 path.remove(path.size()-1);
@@ -24,7 +24,7 @@ class Solution {
         }
     }
     public List<List<String>> partition(String s) {
-        List<List<String>>ans =new ArrayList<>();
+        List<List<String>> ans=new ArrayList<>();
         solve(s,0,new ArrayList<>(),ans);
         return ans;
     }
