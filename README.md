@@ -163,6 +163,7 @@ Java
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0061-rotate-list) |
@@ -175,6 +176,7 @@ Java
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0507-perfect-number](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0507-perfect-number) |
@@ -354,5 +356,6 @@ Java
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/payaldhiman19/leetcodesolutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
